@@ -5,3 +5,6 @@
   - http://danielhnyk.cz/simple-server-client-aplication-python-3/
   - https://pymotw.com/2/socket/tcp.html
   - http://www.bogotobogo.com/python/python_network_programming_server_client.php
+
+## Reeference
+  * [Basic Socket Interface Extensions for IPv6](https://tools.ietf.org/html/rfc3493.html)

@@ -3,7 +3,7 @@ import socket
 class ServerSocket:
 
 	def __init__(self):
-		self.serverSocket = 'none';
+		self.serverSocket = 'none'
 
 	def open_socket(self, host = 'localhost', port = 8080):
 		self.host = host
